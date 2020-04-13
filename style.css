@@ -1,0 +1,41 @@
+body{
+	margin: 7em;
+	font-family : 'Alfa Slab One', cursive;
+	text-align: center;
+	color: rgba(0,0,0,0.5);
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	font-weight: bold;
+	background: linear-gradient(to right,red,yellow);
+}
+
+h1{
+    font-family :'Alfa Slab One', cursive;
+	text-align: center;
+	color: rgba(0,0,0,0.5);
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	width:100%;
+}
+h3{
+	font-family : 'Alfa Slab One', cursive;
+	text-align: center;
+	color: rgba(0,0,0,0.5);
+	text-transform: uppercase;
+	letter-spacing: 0.01em;
+}
+
+#h{
+	font-size:1.5rem;
+}
+span{
+	font-size:2.5rem;
+}
+footer{
+  clear: both;
+    position: relative;
+        margin-top: 335px;
+}
+img{
+	text-align:left;
+}
